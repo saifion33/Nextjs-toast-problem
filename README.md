@@ -1,6 +1,6 @@
 ### Nextjs toast problem app
 
-Hi I want to show a toast when MyComponent mounted .
+Hi I want to show a toast when a client side component ***(in this case MyComponent.tsx )*** mounted.
 This is an example of this problem, My real project is different.
 
 I tried sonner in react it's working fine, but in next js it's not working.
